@@ -1,69 +1,69 @@
-Question: What are the guaranteed availability and latency for the network services provided by IT Solutions, and how is it measured?
+Customer: What are the guaranteed availability and latency for the network services provided by IT Solutions, and how is it measured?
 
-Answer: The guaranteed availability and latency for IT Solutions' network services are specified in the service level agreement (SLA) provided with your contract. Availability is typically measured as a percentage of uptime over a given period, and latency is measured as the time it takes for data to travel between endpoints on the network.
+Chatbot: The guaranteed availability and latency for IT Solutions' network services are specified in the service level agreement (SLA) provided with your contract. Availability is typically measured as a percentage of uptime over a given period, and latency is measured as the time it takes for data to travel between endpoints on the network.
 
-Question: How can I communicate with IT Solutions if I have technical issues or questions about my contract?
+Customer: How can I communicate with IT Solutions if I have technical issues or questions about my contract?
 
-Answer: You can reach IT Solutions' support team by phone, email, or through their online support portal. Contact information should be provided in your contract or service level agreement.
+Chatbot: You can reach IT Solutions' support team by phone, email, or through their online support portal. Contact information should be provided in your contract or service level agreement.
 
-Question: What are the support hours for IT Solutions, and how can I reach their support team during these hours?
+Customer: What are the support hours for IT Solutions, and how can I reach their support team during these hours?
 
-Answer: IT Solutions' support hours should be specified in your contract or service level agreement. Typically, support is available during standard business hours, but some contracts may include 24/7 support. You can reach the support team by phone, email, or through their online support portal.
+Chatbot: IT Solutions' support hours should be specified in your contract or service level agreement. Typically, support is available during standard business hours, but some contracts may include 24/7 support. You can reach the support team by phone, email, or through their online support portal.
 
-Question: How does IT Solutions measure customer satisfaction, and what actions are taken to address any dissatisfaction?
+Customer: How does IT Solutions measure customer satisfaction, and what actions are taken to address any dissatisfaction?
 
-Answer: IT Solutions may conduct surveys or other feedback mechanisms to measure customer satisfaction. If any issues are identified, the support team will work with you to address them and take steps to improve your experience in the future.
+Chatbot: IT Solutions may conduct surveys or other feedback mechanisms to measure customer satisfaction. If any issues are identified, the support team will work with you to address them and take steps to improve your experience in the future.
 
-Question: How long does it typically take for IT Solutions to recover from a service outage, and what steps are taken to prevent future outages?
+Customer: How long does it typically take for IT Solutions to recover from a service outage, and what steps are taken to prevent future outages?
 
-Answer: The time it takes to recover from a service outage depends on the nature and severity of the outage. IT Solutions' service level agreement should specify recovery time objectives (RTOs) for different types of outages. To prevent future outages, IT Solutions may perform regular maintenance, monitor system performance, and implement redundancy and failover mechanisms.
+Chatbot: The time it takes to recover from a service outage depends on the nature and severity of the outage. IT Solutions' service level agreement should specify recovery time objectives (RTOs) for different types of outages. To prevent future outages, IT Solutions may perform regular maintenance, monitor system performance, and implement redundancy and failover mechanisms.
 
 
-Question: What kind of general maintenance tasks are performed by IT Solutions on their systems, and how often are they performed?
+Customer: What kind of general maintenance tasks are performed by IT Solutions on their systems, and how often are they performed?
 
-Answer: IT Solutions may perform regular maintenance tasks on their systems, such as applying software updates, replacing hardware components.
+Chatbot: IT Solutions may perform regular maintenance tasks on their systems, such as applying software updates, replacing hardware components.
 
-Question: How is bridging between different network systems handled by IT Solutions, and what protocols are used?
+Customer: How is bridging between different network systems handled by IT Solutions, and what protocols are used?
 
-Interviewee: IT Solutions may perform regular maintenance tasks on their systems, such as applying software updates, replacing hardware components and so on.. . If you want to get more answers, i will send your request to our 1st level support.
+Chatbot: IT Solutions may perform regular maintenance tasks on their systems, such as applying software updates, replacing hardware components and so on.. . If you want to get more answers, i will send your request to our 1st level support.
 
-Question: How can I troubleshoot latency issues with my network services, and what steps can IT Solutions take to resolve them?
+Customer: How can I troubleshoot latency issues with my network services, and what steps can IT Solutions take to resolve them?
 
-Answer: This problem could be solved with help of 1st level support. I redirect your message.
+Chatbot: This problem could be solved with help of 1st level support. I redirect your message.
 
-Question: My software application is not performing as expected. Can IT Solutions help me diagnose and fix the issue?
+Customer: My software application is not performing as expected. Can IT Solutions help me diagnose and fix the issue?
 
-Answer: Sure! I will send your message to our 1st level support.
+Chatbot: Sure! I will send your message to our 1st level support.
 
-Question: How can I ensure that my systems are up-to-date with the latest security patches and updates, and what kind of support does IT Solutions provide for security?
+Customer: How can I ensure that my systems are up-to-date with the latest security patches and updates, and what kind of support does IT Solutions provide for security?
 
-Answer: If you want to know the actual status of your system you should ask our first level support. I will send your question.
+Chatbot: If you want to know the actual status of your system you should ask our first level support. I will send your question.
 
-Question: How can I monitor the performance of my network and systems, and what kind of metrics does IT Solutions provide for monitoring and reporting?
+Customer: How can I monitor the performance of my network and systems, and what kind of metrics does IT Solutions provide for monitoring and reporting?
 
-Answer: This question could be answered by our first level support. I am sending your request them.
+Chatbot: This question could be answered by our first level support. I am sending your request them.
 
-Question: How can I integrate my existing systems with the services provided by IT Solutions, and what kind of support is available for system integration?
+Customer: How can I integrate my existing systems with the services provided by IT Solutions, and what kind of support is available for system integration?
 
-Answer: This is a very specific question. You should contact our second level support. I will send your message to second level support.
+Chatbot: This is a very specific question. You should contact our second level support. I will send your message to second level support.
 
-Question: I'm having trouble accessing certain resources through the IT Solutions network. Can you help me determine the cause of the problem?
+Customer: I'm having trouble accessing certain resources through the IT Solutions network. Can you help me determine the cause of the problem?
 
-Answer: Sure! You should describe your problem to our 1st level support and they help you. I will send your request 
+Chatbot: Sure! You should describe your problem to our 1st level support and they help you. I will send your request 
 to our 1st level support.
 
-Question: I need to recover data that was lost due to a system outage. What is the process for data recovery, and what kind of support can I expect from IT Solutions?
+Customer: I need to recover data that was lost due to a system outage. What is the process for data recovery, and what kind of support can I expect from IT Solutions?
 
-Answer: Sure! You should have a contact with our second level support. I will redirect your request.
+Chatbot: Sure! You should have a contact with our second level support. I will redirect your request.
 
-Question: I'm encountering errors with my hardware systems. How can IT Solutions help me diagnose and resolve these errors?
+Customer: I'm encountering errors with my hardware systems. How can IT Solutions help me diagnose and resolve these errors?
 
-Answer: I should redirect your question to our first level support.
+Chatbot: I should redirect your question to our first level support.
 
-Question: I have no more questions . I' ve got enough information. Thank you.
+Customer: I have no more questions . I' ve got enough information. Thank you.
 
-Answer: Thank you! It was my pleasure to help you. Have you other questions?
+Chatbot: Thank you! It was my pleasure to help you. Have you other questions?
 
-Questions: I have no more questions. No questions.
+Customer: I have no more questions. No questions.
 
-Answer: Bye! ✌️ 
+Chatbot: Bye! ✌️ 
